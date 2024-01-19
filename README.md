@@ -110,6 +110,11 @@ particularly Computer Vision.
 [![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=sgomezp&theme=defaultt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+
+
+<p align="center">
+        <img src="./svg/wave_down.svg" alt="Wave graphic" />
+</p>
    
 
         
