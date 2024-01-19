@@ -40,12 +40,12 @@ Most of these projects have been team collaborations, as there's a significant e
 applying the Scrum methodology to address real-world challenges.
 
 Regarding methodologies, we also employ one called "Active Pedagogy." This method involves receiving a project briefing 
-where recommended technologies are indicated (though not limiting), and within a maximum of two to three weeks, 
-presenting the results to stakeholders.
+where recommended technologies to develop the project are indicated, and within a maximum of two to three weeks, 
+the results have to be presented to the stakeholders.
 
 Active Pedagogy means that, on our own, we must research the proposed technologies, even if we have no prior knowledge. 
-By the end of the project, we've gained significant knowledge about topics we initially knew nothing about. Learning in 
-this way is rewarding.
+By the end of the project, we've gained significant knowledge about topics we initially knew nothing about. I believe that
+learning in this way is rewarding.
 
 Therefore, several of the badges you see here represent the technologies I've learned throughout various projects in 
 the Bootcamp. It's important to mention that I don't consider myself an "expert" in any of them yet, but I'm working 
