@@ -78,11 +78,15 @@ particularly Computer Vision.
 ![Static Badge](https://img.shields.io/badge/-Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Qgis-84ab27?style=for-the-badge&logo=qgis&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-Ms_Access-ae2132?style=for-the-badge&logo=microsoft&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-Streamlit-fe4b4b?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS3-2865F1?style=for-the-badge&logo=css3&logoColor=white)
- 
+![Static Badge](https://img.shields.io/badge/-Java-2865F1?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
 
 </div>
 
