@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br />
+<br />
 
 <div style="max-width: 700px; margin: 0 auto; text-align: justify;">
 
@@ -55,6 +56,8 @@ particularly Computer Vision.
 
 
 </div>
+<br />
+<br />
 <br />
 
 <div style="max-width: 700px; margin: 0 auto; text-align: center;">
