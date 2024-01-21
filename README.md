@@ -108,7 +108,7 @@ particularly Computer Vision.
 
 [//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgomezp&theme=defaultt&#41;)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgomezp&theme=default)
+[//]: #![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgomezp&theme=default)
 
 [![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=sgomezp&theme=defaultt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
