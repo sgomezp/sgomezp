@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 <div style="max-width: 700px; margin: 0 auto; text-align: justify;">
 
-Currently, I'm immersed in a 9-month Artificial Intelligence Bootcamp, which will conclude at the end of February 
-2024 💪🏻. Consequently, the most recent projects you'll find on my GitHub are those developed throughout this Bootcamp. 
+I successfully completed a 9-month Artificial Intelligence Bootcamp, which concluded at the end of February 2024 💪🏻. 
+Consequently, the most recent projects you'll find on my GitHub are those developed throughout this Bootcamp. 
 Most of these projects have been team collaborations, as there's a significant emphasis on collaborative work and 
 applying the Scrum methodology to address real-world challenges.
 
@@ -52,7 +52,7 @@ the Bootcamp. It's important to mention that I don't consider myself an "expert"
 diligently to become one! 😉
 
 Thanks to the Bootcamp, I'm leaning towards the field of Data Engineering, but I'm also really into Deep Learning, 
-particularly Computer Vision.
+particularly Computer Vision and AI Developer.
 
 
 </div>
@@ -99,12 +99,12 @@ particularly Computer Vision.
 <br />
 <div style="max-width: 700px; margin: 0 auto; text-align: center;">
 
-<h2>🧮 Some of my Github Stats</h2>
+<!--<h2>🧮 Some of my Github Stats</h2> -->
 <br />
 
 [//]: # ([![]&#40;https://visitcount.itsvg.in/api?id=sgomezp&label=Profile%20Views&color=1&icon=5&pretty=true&#41;]&#40;https://visitcount.itsvg.in&#41;)
 
-![GitHub Stats](https://github-readme-stats-nine-cyan-78.vercel.app/api?username=sgomezp&show_icons=true&theme=default)
+<!--  ![GitHub Stats](https://github-readme-stats-nine-cyan-78.vercel.app/api?username=sgomezp&show_icons=true&theme=default) -->
 
 [//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgomezp&theme=defaultt&#41;)
 
