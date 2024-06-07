@@ -51,8 +51,8 @@ Therefore, several of the badges you see here represent the technologies I've le
 the Bootcamp. It's important to mention that I don't consider myself an "expert" in any of them yet, but I'm working 
 diligently to become one! 😉
 
-Thanks to the Bootcamp, I'm leaning towards the field of Data Engineering, but I'm also really into Deep Learning, 
-particularly Computer Vision and AI Developer.
+Thanks to the Bootcamp, I'm excited about Machine Learning, especially Deep Learning applications in Computer Vision. 
+I'm also very interested in Large Language Models and their potential to develop more advanced natural language chatbots.
 
 
 </div>
